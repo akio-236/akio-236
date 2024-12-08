@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I’m Akshay S, a versatile professional with expertise in<br>AI/ML, Flutter development, and deep learning research. I have<br>led projects like seizure detection and emotion recognition, delivering impactful applications as a Flutter development and<br>Deep Learning team lead. Passionate about innovation and<br>growth, I aim to advance AI/ML while fostering creativity and<br>personal balance.<br>
+Hello, I’m Akshay S. With experience in AI/ML, Flutter development, and deep learning research, I’ve led impactful projects like seizure detection and emotion recognition. Passionate about innovation, I’m eager to tackle new challenges in AI/ML while maintaining a balanced approach to growth. I strive to combine creativity and technical expertise to deliver meaningful solutions.<br>
 
 
 ## 🌐 Socials:
