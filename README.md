@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I’m Akshay S, an AI/ML enthusiast with experience in machine learning, deep learning, and Flutter development. With<br>a passion for innovation and problem-solving, I am committed<br>to leveraging my skills to drive meaningful advancements in the<br>field of technology. I strive to maintain a balanced approach<br>to growth, constantly seeking opportunities to learn and contribute to impactful solutions.
+Hello, I’m Akshay S, an AI/ML enthusiast with experience in machine learning, deep learning, and Flutter development. With a passion for innovation and problem-solving, I am committed to leveraging my skills to drive meaningful advancements in the field of technology. I strive to maintain a balanced approach to growth, constantly seeking opportunities to learn and contribute to impactful solutions.
 
 
 ## 🌐 Socials:
