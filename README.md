@@ -1,6 +1,5 @@
 # 💫 About Me:
-Hello, I’m Akshay S, an AI/ML enthusiast with experience in machine learning, deep learning, and Flutter development. With a passion for innovation and problem-solving, I am committed to leveraging my skills to drive meaningful advancements in the field of technology. I strive to maintain a balanced approach to growth, constantly seeking opportunities to learn and contribute to impactful solutions.
-
+AI/ML developer with strong foundations in Deep learning related technologies. Actively trying to learn upcoming technologies and implementing it to improve myself in a dynamic environment.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/akshay-s236/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akshays23623@gmail.com) 
