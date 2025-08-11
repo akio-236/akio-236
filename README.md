@@ -1,8 +1,5 @@
 # <img src ="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGxkOTdhN2p5NTBwdTFidG5leXNjMHlqZjZ2eXBsMGttdG9tdmxmeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11KzOet1ElBDz2/giphy.gif" width = "50" /> Akshay
 
-
-**One night, one idea, one working product by morning.**
-
 I ship production-grade Django apps, design SQL schemas that survive real traffic, and wrap ML work into deployable systems all with a “make it work, then make it good” rhythm. My process is improvisational like a Bebop episode: build the MVP, stabilize the pipeline, then polish.
 If you want someone who turns half-baked ideas into reliable features overnight, we should talk.
 
