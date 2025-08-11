@@ -1,7 +1,10 @@
 # <img src ="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGxkOTdhN2p5NTBwdTFidG5leXNjMHlqZjZ2eXBsMGttdG9tdmxmeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11KzOet1ElBDz2/giphy.gif" width = "50" /> Akshay
 
 
-Problems that mix full-stack web and AI/ML tend to stick with me. That usually means building Django backends, crafting clean UIs, and wiring them up with AI/ML systems that do real work all in Python, my home turf. SQL handles the data side, and my AI/ML toolkit covers everything from deep learning to NLP and computer vision.
+**One night, one idea, one working product by morning.**
+
+I ship production-grade Django apps, design SQL schemas that survive real traffic, and wrap ML work into deployable systems all with a “make it work, then make it good” rhythm. My process is improvisational like a Bebop episode: build the MVP, stabilize the pipeline, then polish.
+If you want someone who turns half-baked ideas into reliable features overnight, we should talk.
 
 <p align="left">
       <img src="https://komarev.com/ghpvc/?username=akio-236&label=PROFILE+VIEWS&color=2E6F40&style=rounded-square" alt="Profile views" />
