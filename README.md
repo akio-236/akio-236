@@ -1,7 +1,6 @@
 # 💫 About Me:
 AI/ML developer with strong foundations in Deep learning related technologies. Actively trying to learn upcoming technologies and implementing it to improve myself in a dynamic environment.
 
-https://komarev.com/ghpvc/?username=akio-236&label=PROFILE+VIEWS&color=blueviolet&style=flat-square%22%20alt=%22Profile%20views%22
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akshay-s236) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akshays23623@gmail.com) 
 
