@@ -76,7 +76,7 @@ If you want someone who turns half-baked ideas into reliable features overnight,
         <img src="https://github-readme-stats.vercel.app/api?username=akio-236&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4ECDC4&icon_color=4ECDC4&text_color=FFFFFF&count_private=true" alt="GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=DilipSC&theme=dark&hide_border=true&background=0D1117&stroke=4ECDC4&ring=4ECDC4&fire=4ECDC4&currStreakLabel=4ECDC4" alt="GitHub Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=akio-236&theme=dark&hide_border=true&background=0D1117&stroke=4ECDC4&ring=4ECDC4&fire=4ECDC4&currStreakLabel=4ECDC4" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
