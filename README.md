@@ -6,25 +6,11 @@ If you want someone who turns half-baked ideas into reliable features overnight,
 <p align="left">
       <img src="https://komarev.com/ghpvc/?username=akio-236&label=PROFILE+VIEWS&color=2E6F40&style=rounded-square" alt="Profile views" />
 </p>
-
-
-
-
-## 📫 Connect with Me
-<a href="https://www.linkedin.com/in/akshay-s236/">
-    <img align="left" alt="Akshay S | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
-  </a> &nbsp;&nbsp;
-  <a href="https://www.instagram.com/akio.pvt/">
-    <img align="left" alt="Akshay | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
-  </a> &nbsp;&nbsp;
-  <a href="mailto:akshays23623@gmail.com">
-    <img align="left" alt="Akshay S | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
-  </a>
     
 
 
 <!-- TECH STACK SECTION -->
-<div align="center">
+<div align="left">
   <h2>
     TECH STACK
   </h2>
@@ -76,7 +62,7 @@ If you want someone who turns half-baked ideas into reliable features overnight,
 ---
 <br>
 
-<div align="center">
+<div align="left">
   <h2>
     GITHUB ANALYTICS
     
