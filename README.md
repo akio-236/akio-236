@@ -3,6 +3,10 @@
 
 Problems that mix full-stack web and AI/ML tend to stick with me. That usually means building Django backends, crafting clean UIs, and wiring them up with AI/ML systems that do real work all in Python, my home turf. SQL handles the data side, and my AI/ML toolkit covers everything from deep learning to NLP and computer vision.
 
+<p align="left">
+      <img src="https://komarev.com/ghpvc/?username=akio-236&label=PROFILE+VIEWS&color=2E6F40&style=rounded-square" alt="Profile views" />
+</p>
+
 
 
 
@@ -16,6 +20,7 @@ Problems that mix full-stack web and AI/ML tend to stick with me. That usually m
   <a href="mailto:akshays23623@gmail.com">
     <img align="left" alt="Akshay S | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
+    
 
 
 <!-- TECH STACK SECTION -->
