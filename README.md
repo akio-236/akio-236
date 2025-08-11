@@ -17,6 +17,80 @@ Problems that mix full-stack web and AI/ML tend to stick with me. That usually m
     <img align="left" alt="Akshay S | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
 
+
+<!-- TECH STACK SECTION -->
+<div align="center">
+  <h2>
+    TECH STACK
+  </h2>
+</div>
+
+<div align="left">
+  <table>
+    <tr>
+      <td align="center" width="25%">
+        <h3>🌐 Frontend</h3>
+        <img src="https://skillicons.dev/icons?i=js,html,css&theme=dark&perline=4" />
+      </td>
+      <td align="center" width="25%">
+        <h3>⚙️ Backend</h3>
+        <img src="https://skillicons.dev/icons?i=python,fastapi,django&theme=dark&perline=4" />
+      </td>
+      <td align="center" width="25%">
+        <h3>📱 Mobile</h3>
+        <img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark&perline=4" />
+      </td>
+      <td align="center" width="25%">
+        <h3>🗄️ Database</h3>
+        <img src="https://skillicons.dev/icons?i=postgresql,mysql,firebase,sqlite&theme=dark&perline=4" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="25%">
+        <h3>☁️ Cloud & DevOps</h3>
+        <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp&theme=dark&perline=4" />
+      </td>
+        <td align="center" width="25%">
+        <h3>🎨 AI/ML Frameworks</h3>
+        <img src="https://skillicons.dev/icons?i=tensorflow,opencv,sklearn,pytorch&theme=dark&perline=4" />
+      </td>
+      <td align="center" width="25%">
+        <h3>🛠️ Tools</h3>
+        <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark&perline=4" />
+      </td>
+      <td align="center" width="25%">
+        <h3>🔧 Other</h3>
+        <img src="https://skillicons.dev/icons?i=godot,unity,arch&theme=dark&perline=4" />
+      </td>
+    </tr>
+  </table>
+</div>
+<br>
+  
+
+---
+<br>
+
+<div align="center">
+  <h2>
+    GITHUB ANALYTICS
+    
+  </h2>
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=akio-236&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4ECDC4&icon_color=4ECDC4&text_color=FFFFFF&count_private=true" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=DilipSC&theme=dark&hide_border=true&background=0D1117&stroke=4ECDC4&ring=4ECDC4&fire=4ECDC4&currStreakLabel=4ECDC4" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
+</div>
+
   <br>
   
 
@@ -29,7 +103,7 @@ Problems that mix full-stack web and AI/ML tend to stick with me. That usually m
       <h3 align="center"><em>“Oh Well. Whatever happens, happens”</em><br><span style="float: right;">~Spike Spiegel</span></h3>
     </td>
     <td valign="middle" align="center">
-      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN21lZHZpNXBseThrMXh4ajg2M2R2aTViMW9tMjE4bjI2bGNxMHZyZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4ilFRqgbzbx4c/giphy.gif"/>
+      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnh0ZnRqOHJ6Ymtlbm96cmNpY21ydDJ5ZmszNXJqazY2bm43Z291dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gQbVzXQQbGO7C/giphy.gif"/>
     </td>
   </tr>
 </table>
