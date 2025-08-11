@@ -21,7 +21,7 @@ If you want someone who turns half-baked ideas into reliable features overnight,
     <tr>
       <td align="center" width="25%">
         <h3>🌐 Frontend</h3>
-        <img src="https://skillicons.dev/icons?i=js,html,css&theme=dark&perline=4" />
+        <img src="https://skillicons.dev/icons?i=js,html,css,typescript&theme=dark&perline=4" />
       </td>
       <td align="center" width="25%">
         <h3>⚙️ Backend</h3>
